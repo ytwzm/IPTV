@@ -1,0 +1,611 @@
+#EXTM3U
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-1 综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-2 财经
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-3 综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-4 中文国际
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-5 体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-6 电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-7 国防军事
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-8 电视剧
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-9 记录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-10 科教
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-11 戏曲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-12 社会与法
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-13 新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-14 少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-15 音乐
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-16 奥林匹克
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-17 农业农村
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-4 中文国际 欧洲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-4 中文国际 美洲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-5+ 体育赛事
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CHC-家庭影院
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CHC-影迷电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CHC-动作电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CGTN
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CGTN-纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,中国教育-1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,中国教育-2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,中国教育-4
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
+
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东齐鲁
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东教育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001090/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",长岛
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001090/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003002/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东交通广播
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003002/index.m3u8
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003001/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东经济广播
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003001/index.m3u8
+
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,东方卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,浙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,江苏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,湖南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,湖北卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,安徽卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000358/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,河南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,河北卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,天津卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,辽宁卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,广东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,东南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,黑龙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,云南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,贵州卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,四川卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,重庆卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,海南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,江西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000368/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,广西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000368/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,吉林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,甘肃卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000397/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,陕西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000397/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,青海卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000395/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,宁夏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000395/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000398/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,内蒙古卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000398/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000393/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,新疆卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000393/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000392/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,西藏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000392/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,深圳卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,厦门卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,三沙卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,兵团卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,农林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
+#EXTINF:-1 group-title="3. 卫视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000668/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,延边卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000668/index.m3u8
+
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,精彩影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,求索纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,纪实科教
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,金鹰纪实
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,乐游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,法治天地
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,东方财经
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,生活时尚
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,都市剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,动漫秀场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,金色学堂
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000643/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,环球旅游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000643/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,中国交通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,生态环境
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000672/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,中华特产
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000672/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,书画频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,卡酷少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,金鹰卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,重庆汽摩
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,劲爆体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,游戏风云
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,梨园频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,文物宝库
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,武术世界
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,财富天下
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,快乐垂钓
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000674/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,四海钓鱼
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000674/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000659/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,新动漫
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000659/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,优漫卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,嘉佳卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000673/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,中央新影-中学生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000673/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000641/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,优优宝贝
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000641/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002031/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,短剧
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002031/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,影视解说
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002033/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,电影大片
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002033/index.m3u8
+#EXTINF:-1 group-title="4. 其它" ,重温经典影视
+http://39.136.48.21:8089/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="4. 其它" ,睛彩竞技
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000020000011528/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 group-title="4. 其它" ,睛彩篮球
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000020000011529/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 group-title="4. 其它" ,睛彩青少
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000020000031315/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 group-title="4. 其它" ,睛彩广场舞
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000020000011523/1.m3u8?channel-id=FifastbLive
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济南新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济南教育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济南都市
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000063/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济南生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000063/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000244/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济南鲁中
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000064/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济南文旅体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000064/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000067/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济南少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000067/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",青岛-1
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000500/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000501/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",青岛-2
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000501/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",青岛-3
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000502/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000503/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",青岛-4
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000503/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",青岛-5
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000505/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",淄博新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",淄博影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000294/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",淄博民生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000294/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000293/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",淄博文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000293/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001025/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",枣庄新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001025/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",枣庄经济生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000226/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",东营新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000226/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000227/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",东营公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000227/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",烟台新闻综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000280/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000282/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",烟台经济科技
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000282/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000283/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",烟台影视
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000283/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000281/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",烟台公共
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000281/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000215/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",潍坊新闻综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000216/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",潍坊经济生活
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000216/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000217/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",潍坊公共
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000217/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000218/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",潍坊科教文化
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000218/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济宁综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000241/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济宁公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000241/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000239/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济宁生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000239/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001101/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济宁高新
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001101/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",泰安综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",泰安经济生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000274/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",威海新闻综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000274/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000275/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",威海海洋生活
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000275/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000262/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",日照新闻综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000262/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001100/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",日照公共
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001100/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000263/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",日照科教
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000263/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",临沂综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000256/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",临沂经济生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000256/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000206/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",德州新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000206/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000207/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",德州经济生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000207/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000250/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",聊城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000250/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000251/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",聊城民生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000251/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000220/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",滨州新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000220/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000221/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",滨州民生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000221/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000232/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",菏泽-1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000232/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000234/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",菏泽-2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000234/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",商河综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001050/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",平阴综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001050/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001030/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",济阳综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001030/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",长清综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001105/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",历城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001105/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001073/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",章丘综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001073/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001115/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",莱钢综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001115/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001086/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",黄岛综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001086/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001087/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",黄岛生活
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001087/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001022/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",崂山综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001022/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001074/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",胶州综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001074/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001067/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",莱西综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001067/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001054/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",平度综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001054/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001080/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",即墨综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001080/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001012/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",张店综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001012/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001019/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",周村新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001019/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001021/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",临淄-1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001021/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001007/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",淄川新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001007/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001023/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",高青综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001023/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001020/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",桓台综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001020/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",沂源综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001028/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",滕州综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001028/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001043/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",广饶综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001043/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001088/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",蓬莱综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001088/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001090/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",长岛综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001090/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001005/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",龙口综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001005/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001055/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",栖霞综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001055/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001113/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",招远综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001113/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001091/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",海阳综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001091/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001092/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",海阳综艺
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001092/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001076/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",牟平综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001076/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001077/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",牟平生活
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001077/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001106/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",潍坊高新区
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001106/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001085/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",临朐综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001085/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001015/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",安丘综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001015/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001033/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",昌乐综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001033/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001083/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",昌邑综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001083/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001089/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",高密综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001089/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001027/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",奎文
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001027/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001042/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",青州综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001042/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001057/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",青州文化旅游
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001057/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001000/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",寿光综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001000/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001045/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",寿光蔬菜
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001045/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001004/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",诸城综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001004/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001078/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",微山综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001078/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001111/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",任城-1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001111/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001112/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",任城-2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001112/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",兖州综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001016/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",嘉祥综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001016/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001052/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",曲阜综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001052/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001116/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",汶上综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001116/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001038/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",邹城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001038/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001107/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",鱼台综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001107/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001108/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",鱼台生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001108/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001075/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",梁山综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001075/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001081/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",泗水综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001081/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001114/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",泰山
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001114/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001013/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",岱岳
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001013/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",新泰综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",新泰乡村
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",肥城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",东平综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001071/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",宁阳综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001071/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001072/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",宁阳-2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001072/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001049/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",乳山综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001049/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001053/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",荣成综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001053/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001017/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",文登-1
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001017/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001014/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",莒县综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001014/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001044/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",岚山综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001044/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001068/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",五莲综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001068/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",兰陵综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001095/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",兰陵公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001095/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001096/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",沂南综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001096/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001098/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",沂水综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001098/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001099/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",沂水生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001099/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001109/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",河东综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001109/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001011/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",莒南综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001011/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001031/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",蒙阴综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001031/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001094/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",临沭综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001094/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001097/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",沂南红色影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001097/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",武城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001082/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",陵城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001082/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001061/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",禹城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001061/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",禹城综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001104/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",临邑-1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001104/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001069/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",夏津综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001069/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001070/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",夏津公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001070/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001003/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",宁津综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001003/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",齐河综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",平原综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",东阿综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001103/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",临清综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001103/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",冠县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",茌平综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001047/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",莘县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001047/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001119/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",东昌综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001119/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001009/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",惠民综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001009/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",邹平综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001036/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",阳信综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001036/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001024/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",无棣综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001024/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001035/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",沾化综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001035/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001102/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",博兴综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001102/index.m3u8
+
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001065/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",东明-1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001065/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001079/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",单县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001079/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",巨野综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001063/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",定陶-1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001063/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",郓城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1 group-title="5. 地方" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001084/index.m3u8?startTime=${(b)10}&endTime=${(e)10}",鄄城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001084/index.m3u8
+
+#EXTINF:-1 group-title="6. 高清" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
+#EXTINF:-1 group-title="6. 高清" catchup="default" catchup-source="http://39.134.144.6:8089/PLTV/88888888/224/3221226733/index.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" ,北京卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
+#EXTINF:-1 group-title="6. 高清" catchup="default" catchup-source="http://39.134.144.6:8089/PLTV/88888888/224/3221226786/index.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" ,东方卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
+#EXTINF:-1 group-title="6. 高清" catchup="default" catchup-source="http://39.134.144.6:8089/PLTV/88888888/224/3221226760/index.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" ,山东卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
+#EXTINF:-1 group-title="6. 高清" catchup="default" catchup-source="http://39.134.144.6:8089/PLTV/88888888/224/3221226783/index.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" ,湖南卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8
+#EXTINF:-1 group-title="6. 高清" catchup="default" catchup-source="http://39.134.144.6:8089/PLTV/88888888/224/3221226776/index.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" ,浙江卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
+#EXTINF:-1 group-title="6. 高清" catchup="default" catchup-source="http://39.134.144.6:8089/PLTV/88888888/224/3221226778/index.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" ,江苏卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8
+#EXTINF:-1 group-title="6. 高清" catchup="default" catchup-source="http://39.134.144.6:8089/PLTV/88888888/224/3221226741/index.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" ,广东卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
+#EXTINF:-1 group-title="6. 高清" catchup="default" catchup-source="http://39.134.144.6:8089/PLTV/88888888/224/3221226781/index.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" ,四川卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
+#EXTINF:-1 group-title="6. 高清" catchup="default" catchup-source="http://39.134.144.6:8089/PLTV/88888888/224/3221226736/index.m3u8?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" ,深圳卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
+#EXTINF:-1 group-title="6. 高清" ,至臻视界
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000015686/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 group-title="6. 高清" ,咪视界4K
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000005180/1.m3u8?channel-id=FifastbLive
+#EXTINF:-1 group-title="6. 高清" ,至臻视界-3D
+http://ucdn-zte.sd.chinamobile.com:8089/000000001001/3000000010000027638/1.m3u8?channel-id=FifastbLive
