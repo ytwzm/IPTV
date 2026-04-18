@@ -49,11 +49,8 @@ TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
 TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
 愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
-峨眉电影,http://171.213.159.85:9981/stream/channelid/1712522669?profile=pass
-CCTV-16 奥林匹克,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
-CCTV-16 奥林匹克,http://hls.netlive.ggff.net/hls/cctv16.m3u8
 CCTV-16 奥林匹克,http://183.129.255.66:8480/hls/17/index.m3u8
-多彩文体 4K,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.115:5140
+
 
 
 
