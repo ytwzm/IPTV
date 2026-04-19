@@ -1,11 +1,22 @@
+直播源：
+https://raw.githubusercontent.com/ytwzm/IPTV/refs/heads/main/.
+https://gitee.com/ytwzm/iptv/raw/master/.
+https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/refs/heads/main/
+
+EPG：
+https://tv.mxdyeah.top/epgphp/index.php
+https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc.xml.gz
+https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz
+https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/xml/refs/heads/main/epg.xml
+
 有效字段：
 山东移动
 http://39.134.144.6:8089/PLTV/88888888/224/[3221225585-3221226790]/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL0000[0003-2000]/index.m3u8
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL0000[0001-2000]/index.m3u8
 
-
-直播源：
+仓库：
+https://github.com/sggc/SDU-IPTV-PRO/tree/main
 https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
 https://github.com/plsy1/iptv/tree/main
 https://github.com/vidarsong/iptv-sdlt
