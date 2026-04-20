@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
 #genre#  1. 央视
 #EXTINF:-1 tvg-name="CCTV1" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 1. 央视",CCTV-1 综合
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/69958_Uni.sdp
