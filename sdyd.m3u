@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
 #EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-1 综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-2 财经
