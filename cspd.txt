@@ -12,6 +12,7 @@
 重温经典,http://8.138.7.223/tv/cwjd.php
 中国天气,https://lanmeio.com/guanfang/migu/migu.php?id=zztq
 经典香港电影,https://lanmeio.com/guanfang/migu/migu.php?id=jdxgdy
+CCTV-8K,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-世界地理,http://183.236.43.98:4013/udp/239.253.43.7:5146
 CCTV-兵器科技,http://183.236.43.98:4013/udp/239.253.43.9:5146
 CCTV-风云音乐,http://183.236.43.98:4013/udp/239.253.43.6:5146
