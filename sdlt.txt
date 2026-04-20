@@ -96,6 +96,7 @@ CGTN-纪录,rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch210622154
 中国交通,rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch20110221445820405906.rsc/90479_Uni.sdp
 生态环境,rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch24111213061931833007.rsc/101604_Uni.sdp
 中华特产,rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch22122209144768479365.rsc/98231_Uni.sdp
+财富天下,rtsp://124.131.220.13:1554/iptv/import/Tvod/iptv/001/001/ch21082717345151428687.rsc/96267_Uni.sdp
 书画频道,rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610331127874295.rsc/92486_Uni.sdp
 卡酷少儿,rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118400576795406.rsc/69993_Uni.sdp
 金鹰卡通,rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11122400412227153064.rsc/70028_Uni.sdp
