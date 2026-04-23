@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/refs/heads/main/
 
 EPG：
 https://tv.mxdyeah.top/epgphp/index.php
+http://diyp.fans/diyp/epg.php
 https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc.xml.gz
 https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz
 https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/xml/refs/heads/main/epg.xml
