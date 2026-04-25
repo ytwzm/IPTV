@@ -16,7 +16,7 @@ rtsp://119.180.21.22:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.r
 rtsp://119.180.21.22:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/72231_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV8" catchup="default" catchup-source="rtsp://119.180.21.22:1554/iptv/Tvod/iptv/001/001/ch21072816531463294165.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 1. 央视",CCTV-8 电视剧
 rtsp://119.180.21.22:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/91852_Uni.sdp
-#EXTINF:-1 tvg-name="CCTV9" catchup="default" catchup-source="rtsp://119.180.21.12:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 1. 央视",CCTV-9 记录
+#EXTINF:-1 tvg-name="CCTV9" catchup="default" catchup-source="rtsp://119.180.21.12:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 1. 央视",CCTV-9 纪录
 rtsp://119.180.21.12:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/72307_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV10" catchup="default" catchup-source="rtsp://119.180.21.6:1554/iptv/Tvod/iptv/001/001/ch15111015554384702984.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 1. 央视",CCTV-10 科教
 rtsp://119.180.21.6:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/72239_Uni.sdp
@@ -73,7 +73,7 @@ rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/69960_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV8" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21072816531463294165.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 1. 央视",CCTV-8 电视剧
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/91850_Uni.sdp
-#EXTINF:-1 tvg-name="CCTV9" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 1. 央视",CCTV-9 记录
+#EXTINF:-1 tvg-name="CCTV9" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 1. 央视",CCTV-9 纪录
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/70042_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV10" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111015554384702984.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 1. 央视",CCTV-10 科教
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/69941_Uni.sdp
