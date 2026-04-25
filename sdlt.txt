@@ -344,3 +344,4 @@ CCTV-4K,rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch2312281438212
 广东卫视4K,rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch25062414535257116401.rsc/103043_Uni.sdp
 深圳卫视4K,rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch25061910020901468282.rsc/103007_Uni.sdp
 爱上4K测试体验,rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch16062014270602375204.rsc/70019_Uni.sdp
+
