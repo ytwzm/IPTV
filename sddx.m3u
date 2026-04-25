@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
+#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226103/10000100000000060000000002902003_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",CCTV-1 综合
 http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226173/10000100000000060000000003110715_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",CCTV-2 财经
@@ -15,7 +15,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227031/410248915.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",CCTV-8 电视剧
 http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226177/10000100000000060000000003110720_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",CCTV-9 记录
+#EXTINF:-1 tvg-name="CCTV9" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226177/10000100000000060000000003110720_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",CCTV-9 纪录
 http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226181/10000100000000060000000003110727_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",CCTV-10 科教
 http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
