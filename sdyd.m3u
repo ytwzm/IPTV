@@ -15,7 +15,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-8 电视剧
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
-#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-9 记录
+#EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-9 纪录
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
 #EXTINF:-1 group-title="1. 央视" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV-10 科教
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
@@ -76,7 +76,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,山东教育
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
-#EXTINF:-1 group-title="2. 山东" tvg-name="长岛综合" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001090/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",长岛
+#EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001090/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",长岛综合
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001090/index.m3u8
 #EXTINF:-1 group-title="2. 山东" catchup="default" catchup-source="http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.tvod.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001088/index.m3u8?startTime=${(b)yyyyMMdd'T'HHmmss'.00Z'|-08:00}&endTime=${(e)yyyyMMdd'T'HHmmss'.00Z'|-08:00}",蓬莱综合
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001088/index.m3u8
@@ -166,7 +166,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
 #EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,金鹰纪实
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
-#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,乐游
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,乐游频道
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
 #EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,法治天地
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
@@ -188,14 +188,14 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
 #EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000672/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,中华特产
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000672/index.m3u8
+#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,汽摩频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
 #EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,书画频道
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8
 #EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,卡酷少儿
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
 #EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,金鹰卡通
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8
-#EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,重庆汽摩
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
 #EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,劲爆体育
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 #EXTINF:-1 group-title="4. 其它" catchup="default" catchup-source="http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,游戏风云
