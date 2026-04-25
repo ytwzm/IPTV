@@ -7,7 +7,7 @@ CCTV-5 体育,rtsp://119.180.21.7:1554/iptv/import/Tvod/iptv/001/001/ch210728165
 CCTV-6 电影,rtsp://119.180.21.22:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.rsc/91833_Uni.sdp
 CCTV-7 国防军事,rtsp://119.180.21.22:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/72231_Uni.sdp
 CCTV-8 电视剧,rtsp://119.180.21.22:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/91852_Uni.sdp
-CCTV-9 记录,rtsp://119.180.21.12:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/72307_Uni.sdp
+CCTV-9 纪录,rtsp://119.180.21.12:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/72307_Uni.sdp
 CCTV-10 科教,rtsp://119.180.21.6:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/72239_Uni.sdp
 CCTV-11 戏曲,rtsp://119.180.21.22:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.rsc/72374_Uni.sdp
 CCTV-12 社会与法,rtsp://119.180.21.18:1554/iptv/import/Tvod/iptv/001/001/ch15111015571407754299.rsc/72225_Uni.sdp
@@ -36,7 +36,7 @@ CCTV-5 体育,rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch2107281
 CCTV-6 电影,rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.rsc/91842_Uni.sdp
 CCTV-7 国防军事,rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/69960_Uni.sdp
 CCTV-8 电视剧,rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/91850_Uni.sdp
-CCTV-9 记录,rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/70042_Uni.sdp
+CCTV-9 纪录,rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/70042_Uni.sdp
 CCTV-10 科教,rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/69941_Uni.sdp
 CCTV-11 戏曲,rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.rsc/70045_Uni.sdp
 CCTV-12 社会与法,rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15111015571407754299.rsc/70056_Uni.sdp
