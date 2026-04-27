@@ -13,7 +13,7 @@
 重温经典,http://8.138.7.223/tv/cwjd.php
 中国天气,https://lanmeio.com/guanfang/migu/migu.php?id=zztq
 经典香港电影,https://lanmeio.com/guanfang/migu/migu.php?id=jdxgdy
-CCTV-8K,http://107.150.60.122/live/cctv8k.m3u8
+CCTV-8K,http://107.150.60.122/live/cctv8k.m3u8#webview://https://www.yangshipin.cn/tv/home?pid=600156816
 CCTV-世界地理,http://183.236.43.98:4013/udp/239.253.43.7:5146
 CCTV-兵器科技,http://183.236.43.98:4013/udp/239.253.43.9:5146
 CCTV-风云音乐,http://183.236.43.98:4013/udp/239.253.43.6:5146
@@ -22,9 +22,6 @@ CCTV-风云剧场,http://183.236.43.98:4013/udp/239.253.43.16:5146
 CCTV-怀旧剧场,http://183.236.43.98:4013/udp/239.253.43.5:5146
 CCTV-女性时尚,http://183.236.43.98:4013/udp/239.253.43.8:5146
 CCTV-央视文化精品,http://183.236.43.98:4013/udp/239.253.43.13:5146
-中央新影-发现之旅,https://lanmeio.com/guanfang/migu/migu.php?id=fxzl
-中央新影-中学生,https://lanmeio.com/guanfang/migu/migu.php?id=zxs
-中央新影-老故事,https://lanmeio.com/guanfang/migu/migu.php?id=lgs
 中國電影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
 梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
 靖天電影台,http://iptv.4666888.xyz/iptv2A.php?id=56
@@ -51,7 +48,6 @@ TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
 TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
 愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
-CCTV-8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 CCTV-16 奥林匹克,http://183.129.255.66:8480/hls/17/index.m3u8
 
 
