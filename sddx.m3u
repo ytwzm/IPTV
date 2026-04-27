@@ -49,11 +49,11 @@ http://150.138.8.143/00/SNM/CHANNEL00002030/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 #EXTINF:-1 tvg-name="CGTN英文纪录" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226991/409210231.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",CGTN-纪录
 http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8
-#EXTINF:-1 tvg-name="中国教育-1" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226744/395256464.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",中国教育-1
+#EXTINF:-1 tvg-name="中国教育1" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226744/395256464.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",中国教育-1
 http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
-#EXTINF:-1 tvg-name="中国教育-2" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226834/395256487.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",中国教育-2
+#EXTINF:-1 tvg-name="中国教育2" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226834/395256487.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",中国教育-2
 http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
-#EXTINF:-1 tvg-name="中国教育-4" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227187/456916096.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",中国教育-4
+#EXTINF:-1 tvg-name="中国教育4" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227187/456916096.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="1. 央视",中国教育-4
 http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226059/10000100000000060000000002709088_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="2. 山东",山东卫视
 http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
@@ -129,9 +129,9 @@ http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227210/438782321.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="3. 卫视",云南卫视
 http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226018/10000100000000060000000002706915_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="3. 卫视",陕西卫视
+#EXTINF:-1 tvg-name="陕西卫视" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227367/539887012.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="3. 卫视",陕西卫视
 http://150.138.8.143/00/SNM/CHANNEL00000397/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226034/10000100000000060000000002706931_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="3. 卫视",内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227371/539887016.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="3. 卫视",内蒙古卫视
 http://150.138.8.143/00/SNM/CHANNEL00000398/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227450/527989427.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="3. 卫视",宁夏卫视
 http://150.138.8.143/00/SNM/CHANNEL00000395/index.m3u8
@@ -513,8 +513,8 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227453/527738500.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227446/527738562.smil
 #EXTINF:-1 tvg-name="广东卫视4K" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="6. 高清",广东卫视4K
 http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="深圳卫视4K" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="6. 高清",深圳卫视4K
-http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="四川卫视4K" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="6. 高清",四川卫视4K
 rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
+#EXTINF:-1 tvg-name="深圳卫视4K" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" group-title="6. 高清",深圳卫视4K
+http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
 
