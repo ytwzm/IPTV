@@ -1,3 +1,8 @@
+接口：
+游魂
+https://www.iyouhun.com/tv/dc
+
+
 直播源：
 https://raw.githubusercontent.com/ytwzm/IPTV/refs/heads/main/.
 https://gitee.com/ytwzm/iptv/raw/master/.
