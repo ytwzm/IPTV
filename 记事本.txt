@@ -1,7 +1,12 @@
 接口：
 游魂
 https://www.iyouhun.com/tv/dc
-
+小米
+http://mitvbox.xyz/小米/DEMO.json
+王二小
+https://9280.kstore.vip/newwex.json
+饭太硬
+http://www.饭太硬.com/tv/
 
 直播源：
 https://raw.githubusercontent.com/ytwzm/IPTV/refs/heads/main/.
