@@ -11,6 +11,7 @@ http://www.饭太硬.com/tv/
 直播源：
 https://raw.githubusercontent.com/ytwzm/IPTV/refs/heads/main/.
 https://gitee.com/ytwzm/iptv/raw/master/.
+https://gitee.com/zhsdwzm/iptv/raw/master/.
 https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/refs/heads/main/
 
 EPG：
