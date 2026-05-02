@@ -23,7 +23,7 @@ http://diyp.fans/diyp/epg.php
 https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc.xml.gz
 https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz
 https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/xml/refs/heads/main/epg.xml
-
+http://e.erw.cc/all.xml.gz
 
 
 有效字段：
@@ -31,6 +31,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/xml/refs/heads/m
 http://39.134.144.6:8089/PLTV/88888888/224/[3221225585-3221226790]/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL0000[0003-2000]/index.m3u8
 http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL0000[0001-2000]/index.m3u8
+
 
 仓库：
 https://raw.githubusercontent.com/ytwzm/IPTV/refs/heads/main/.m3u
@@ -48,3 +49,5 @@ https://gitee.com/gengxx/m3u/tree/master
 https://gitee.com/bro_fei/iptv
 https://gitee.com/zhang_qiangraul/yuan/tree/master
 
+背景图：
+https://深色壁纸.xxooo.cf/
