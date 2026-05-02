@@ -8,11 +8,14 @@ https://9280.kstore.vip/newwex.json
 饭太硬
 http://www.饭太硬.com/tv/
 
+
 直播源：
 https://raw.githubusercontent.com/ytwzm/IPTV/refs/heads/main/.
 https://gitee.com/ytwzm/iptv/raw/master/.
 https://gitee.com/zhsdwzm/iptv/raw/master/.
 https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/refs/heads/main/
+http://47.110.137.212/追光视界/index.php?id=
+
 
 EPG：
 https://tv.mxdyeah.top/epgphp/index.php
@@ -20,6 +23,8 @@ http://diyp.fans/diyp/epg.php
 https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc.xml.gz
 https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz
 https://gh-proxy.com/https://raw.githubusercontent.com/sumingyd/xml/refs/heads/main/epg.xml
+
+
 
 有效字段：
 山东移动
@@ -42,4 +47,4 @@ https://gitee.com/jin-xueling/television-electricity
 https://gitee.com/gengxx/m3u/tree/master
 https://gitee.com/bro_fei/iptv
 https://gitee.com/zhang_qiangraul/yuan/tree/master
-http://47.110.137.212/追光视界/index.php?id=
+
