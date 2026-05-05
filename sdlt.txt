@@ -323,7 +323,7 @@ IPTV法治,rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch1303131054
 
  6. 高清,#genre#
 CCTV-4K,rtsp://119.180.21.21:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99917_Uni.sdp
-山东卫视4K,rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25081411425529721444.rsc/103166_Uni.sdp
+山东卫视4K,rtsp://60.212.115.186:1554/iptv/import/Tvod/iptv/001/001/ch25081411425529721444.rsc/103454_Uni.sdp
 北京卫视4K,rtsp://119.180.21.10:1554/iptv/import/Tvod/iptv/001/001/ch25032514071097767315.rsc/102831_Uni.sdp
 东方卫视4K,rtsp://119.180.21.22:1554/iptv/import/Tvod/iptv/001/001/ch25092214082801723362.rsc/103284_Uni.sdp
 江苏卫视4K,rtsp://119.180.21.19:1554/iptv/import/Tvod/iptv/001/001/ch25092214081313070909.rsc/103260_Uni.sdp
@@ -345,4 +345,3 @@ CCTV-4K,rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch2312281438212
 广东卫视4K,rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch25062414535257116401.rsc/103043_Uni.sdp
 深圳卫视4K,rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch25061910020901468282.rsc/103007_Uni.sdp
 爱上4K测试体验,rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch16062014270602375204.rsc/70019_Uni.sdp
-
