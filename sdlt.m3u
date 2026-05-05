@@ -137,6 +137,8 @@ rtsp://119.180.21.12:1554/iptv/import/Tvod/iptv/001/001/ch10111720502861127519.r
 rtsp://119.180.21.13:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/72327_Uni.sdp
 #EXTINF:-1 tvg-name="长岛综合" catchup="default" catchup-source="rtsp://119.180.21.9:1554/iptv/Tvod/iptv/001/001/ch21112309564791319018.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 2. 山东",长岛综合
 rtsp://119.180.21.9:1554/iptv/import/Tvod/iptv/001/001/ch21112309564791319018.rsc/92717_Uni.sdp
+#EXTINF:-1 tvg-name="蓬莱综合" catchup="default" catchup-source="rtsp://60.212.114.216:1554/iptv/Tvod/iptv/001/001/ch21092609425592224582.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 2. 山东",蓬莱综合
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch21092609425592224582.rsc/92469_Uni.sdp
 #EXTINF:-1 tvg-name="烟台新闻" catchup="default" catchup-source="rtsp://119.180.21.19:1554/iptv/Tvod/iptv/001/001/ch16123014461934304167.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 2. 山东",烟台新闻
 rtsp://119.180.21.19:1554/iptv/import/Tvod/iptv/001/001/ch16123014461934304167.rsc/73281_Uni.sdp
 #EXTINF:-1 tvg-name="烟台公共" catchup="default" catchup-source="rtsp://119.180.21.10:1554/iptv/Tvod/iptv/001/001/ch17071714494964567265.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 2. 山东",烟台公共
@@ -631,8 +633,8 @@ rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217035832697899.
 #genre#  6. 高清
 #EXTINF:-1 tvg-name="CCTV4K" catchup="default" catchup-source="rtsp://119.180.21.21:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 6. 高清",CCTV-4K
 rtsp://119.180.21.21:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99917_Uni.sdp
-#EXTINF:-1 tvg-name="山东卫视4K" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch25081411425529721444.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 6. 高清",山东卫视4K
-rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25081411425529721444.rsc/103166_Uni.sdp
+#EXTINF:-1 tvg-name="山东卫视4K" catchup="default" catchup-source="rtsp://60.212.115.186:1554/iptv/Tvod/iptv/001/001/ch25081411425529721444.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 6. 高清",山东卫视4K
+rtsp://60.212.115.186:1554/iptv/import/Tvod/iptv/001/001/ch25081411425529721444.rsc/103454_Uni.sdp
 #EXTINF:-1 tvg-name="北京卫视4K" catchup="default" catchup-source="rtsp://119.180.21.10:1554/iptv/Tvod/iptv/001/001/ch25032514071097767315.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 6. 高清",北京卫视4K
 rtsp://119.180.21.10:1554/iptv/import/Tvod/iptv/001/001/ch25032514071097767315.rsc/102831_Uni.sdp
 #EXTINF:-1 tvg-name="东方卫视4K" catchup="default" catchup-source="rtsp://119.180.21.22:1554/iptv/Tvod/iptv/001/001/ch25092214082801723362.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" group-title=" 6. 高清",东方卫视4K
