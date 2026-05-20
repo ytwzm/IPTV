@@ -3,6 +3,9 @@
 北京IPTV淘娱乐,http://r.xace.fun:4999/udp/239.3.1.100:8001
 北京IPTV淘BABY,http://r.xace.fun:4999/udp/239.3.1.238:8001
 北京重温经典,http://home.airengine.net:9003/udp/228.1.1.237:8002
+中国天气,https://lanmeio.com/guanfang/migu/migu.php?id=zztq
+经典香港电影,https://lanmeio.com/guanfang/migu/migu.php?id=jdxgdy
+重温经典,http://8.138.7.223/tv/cwjd.php
 北京新闻,http://r.xace.fun:4999/udp/239.3.1.159:8000
 北京影视,http://r.xace.fun:4999/udp/239.3.1.158:8000
 北京财经,http://r.xace.fun:4999/udp/239.3.1.116:8000
@@ -10,10 +13,6 @@
 北京文艺,http://r.xace.fun:4999/udp/239.3.1.242:8000
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
-重温经典,http://8.138.7.223/tv/cwjd.php
-中国天气,https://lanmeio.com/guanfang/migu/migu.php?id=zztq
-经典香港电影,https://lanmeio.com/guanfang/migu/migu.php?id=jdxgdy
-CCTV-8K,http://107.150.60.122/live/cctv8k.m3u8#webview://https://www.yangshipin.cn/tv/home?pid=600156816
 CCTV-世界地理,http://183.236.43.98:4013/udp/239.253.43.7:5146
 CCTV-兵器科技,http://183.236.43.98:4013/udp/239.253.43.9:5146
 CCTV-风云音乐,http://183.236.43.98:4013/udp/239.253.43.6:5146
@@ -22,7 +21,6 @@ CCTV-风云剧场,http://183.236.43.98:4013/udp/239.253.43.16:5146
 CCTV-怀旧剧场,http://183.236.43.98:4013/udp/239.253.43.5:5146
 CCTV-女性时尚,http://183.236.43.98:4013/udp/239.253.43.8:5146
 CCTV-央视文化精品,http://183.236.43.98:4013/udp/239.253.43.13:5146
-环球奇观,http://60.10.139.113:8801/hls/75/index.m3u8
 中國電影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
 梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
 靖天電影台,http://iptv.4666888.xyz/iptv2A.php?id=56
@@ -49,9 +47,5 @@ TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
 TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
 愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
-CCTV-16 奥林匹克,http://183.129.255.66:8480/hls/17/index.m3u8
-
-
-
-
-
+CCTV-8K,http://49.232.195.88:55667/cctv8k.m3u8#http://107.150.60.122/live/cctv8k.m3u8#webview://https://www.yangshipin.cn/tv/home?pid=600156816
+CCTV-16 奥林匹克,http://49.232.195.88:55667/cctv164k.m3u8#http://183.129.255.66:8480/hls/17/index.m3u8
