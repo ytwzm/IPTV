@@ -1,10 +1,10 @@
+CCTV-8K,http://107.150.60.122/live/cctv8k.m3u8#webview://https://www.yangshipin.cn/tv/home?pid=600156816
+CCTV-16 奥林匹克,http://183.129.255.66:8480/hls/17/index.m3u8#webview://https://tv.cctv.com/live/cctv16/
 北京IPTV淘电影,http://r.xace.fun:4999/udp/239.3.1.250:8001
 北京IPTV淘剧场,http://r.xace.fun:4999/udp/239.3.1.95:8001
 北京IPTV淘娱乐,http://r.xace.fun:4999/udp/239.3.1.100:8001
 北京IPTV淘BABY,http://r.xace.fun:4999/udp/239.3.1.238:8001
 北京重温经典,http://home.airengine.net:9003/udp/228.1.1.237:8002
-中国天气,https://lanmeio.com/guanfang/migu/migu.php?id=zztq
-经典香港电影,https://lanmeio.com/guanfang/migu/migu.php?id=jdxgdy
 重温经典,http://8.138.7.223/tv/cwjd.php
 北京新闻,http://r.xace.fun:4999/udp/239.3.1.159:8000
 北京影视,http://r.xace.fun:4999/udp/239.3.1.158:8000
@@ -47,5 +47,3 @@ TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
 TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
 愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
-CCTV-8K,http://49.232.195.88:55667/cctv8k.m3u8#http://107.150.60.122/live/cctv8k.m3u8#webview://https://www.yangshipin.cn/tv/home?pid=600156816
-CCTV-16 奥林匹克,http://49.232.195.88:55667/cctv164k.m3u8#http://183.129.255.66:8480/hls/17/index.m3u8
